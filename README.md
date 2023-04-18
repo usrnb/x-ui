@@ -137,7 +137,3 @@ x-ui v2-ui
 ## issue 关闭
 
 各种小白问题看得血压很高
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/vaxilu/x-ui.svg)](https://starchart.cc/vaxilu/x-ui)
